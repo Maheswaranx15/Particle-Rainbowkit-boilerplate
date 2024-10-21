@@ -14,7 +14,7 @@ Built using **RainbowKit** (+ Particle extension), **Wagmi**, **Typescript**, an
 ## 🔑 Particle Auth
 Particle Auth, a component of Particle Network's Wallet-as-a-Service, enables seamless onboarding to an application-embedded MPC-TSS/AA wallet facilitated by social login, such as Google, GitHub, email, phone number, etc.
 
-👉 Try the demo: https://web-demo.particle.network/rainbowKit
+👉 Try the demo: https://web-demo.particle.network
 
 👉 Learn more about Particle Network: https://particle.network
 
